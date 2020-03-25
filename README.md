@@ -1,2 +1,2 @@
 # wp-sms
-Notify new WordPress posts via SMS
+Receive text messages for new posts by WordPress blogs you follow.
