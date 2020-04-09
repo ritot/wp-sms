@@ -1,2 +1,2 @@
 # wp-sms
-Receive text messages for new posts by WordPress blogs you follow. Powered by Twilio
+Receive text messages through Twilio for new posts by WordPress blogs you follow.
